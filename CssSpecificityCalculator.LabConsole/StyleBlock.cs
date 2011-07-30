@@ -1,4 +1,4 @@
-namespace CssSpecificityTool.LabConsole {
+namespace CssSpecificityCalculator.LabConsole {
     public class StyleBlock {
         public string[] Selectors { get; set; }
         public string BlockContent { get; set; }

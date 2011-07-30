@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace CssSpecificityTool.LabConsole {
+namespace CssSpecificityCalculator.LabConsole {
     public class SelectorSpecificityScore : IComparable<SelectorSpecificityScore> {
 
         /// <param name="scoreA">count the number of ID attributes in the selector</param>

@@ -1,4 +1,4 @@
-namespace CssSpecificityTool.LabConsole {
+namespace CssSpecificityCalculator.LabConsole {
     public class SelectorTest {
         public string Selector { get; set; }
         public SelectorSpecificityScore Score { get; set; }

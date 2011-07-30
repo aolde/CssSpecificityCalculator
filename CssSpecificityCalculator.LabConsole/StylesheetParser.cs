@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace CssSpecificityTool.LabConsole {
+namespace CssSpecificityCalculator.LabConsole {
     public class StylesheetParser {
         private string _styleSheetContent;
 
